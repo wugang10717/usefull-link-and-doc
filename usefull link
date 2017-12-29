@@ -10,10 +10,19 @@
 4: AIOps
    https://github.com/etsy/skyline
    
-5：k8s
+5：k8s best practices:
    https://techbeacon.com/one-year-using-kubernetes-production-lessons-learned
    https://acotten.com/post/1year-kubernetes
    https://blog.aquasec.com/security-best-practices-for-kubernetes-deployment
+   https://applatix.com/applatix-product/
+   https://www.twistlock.com/2017/01/26/kubernetes-cluster-security/
+   https://speakerdeck.com/thesandlord/kubernetes-best-practices?utm_source=hashnode.com
+      ---video: https://www.youtube.com/watch?v=BznjDNxp4Hs
+   https://blogs.oracle.com/weblogicserver/best-practices-for-application-deployment-on-weblogic-server-running-on-kubernetes-v2
+   http://docs.heptio.com/content/tutorials/rbac.html
+   https://cloud.google.com/solutions/jenkins-on-kubernetes-engine
+   
+   
    
    
 
