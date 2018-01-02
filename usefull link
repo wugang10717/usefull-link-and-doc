@@ -9,6 +9,8 @@
    
 4: AIOps
    https://github.com/etsy/skyline
+   https://github.com/twitter/BreakoutDetection
+   https://github.com/twitter/AnomalyDetection
    
 5：k8s best practices:
    https://techbeacon.com/one-year-using-kubernetes-production-lessons-learned
